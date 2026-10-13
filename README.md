@@ -1,8 +1,8 @@
 # TicketCraft
 
-TicketCraft is a high-concurrency ticket booking engine and distributed-systems simulator. It's built to model a real flash-sale ticket drop (think: a 130,000-seat stadium show going on sale) — thousands of users hammering the same handful of seats at the same instant — and to hold up: zero double-bookings, no crashed services, and a UI that stays live for everyone even as the backend sheds load under pressure.
+> **Author:** Adarsh
 
-**[🎥 Watch the demo (NOTE: Lobby size is intentionally capped at one active user to showcase the queue functionality)](https://drive.google.com/file/d/1Q4CJBvSCt6KiYLuiUXmyya4vghvfiadE/view?usp=drive_link)**
+TicketCraft is a high-concurrency ticket booking engine and distributed-systems simulator. It's built to model a real flash-sale ticket drop (think: a 130,000-seat stadium show going on sale) — thousands of users hammering the same handful of seats at the same instant — and to hold up: zero double-bookings, no crashed services, and a UI that stays live for everyone even as the backend sheds load under pressure.
 
 ---
 

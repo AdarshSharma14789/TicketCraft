@@ -12,6 +12,15 @@
     <name>TicketCraft Parent</name>
     <description>Parent POM for TicketCraft Microservices Seating Platform</description>
 
+    <developers>
+        <developer>
+            <name>Adarsh</name>
+            <roles>
+                <role>developer</role>
+            </roles>
+        </developer>
+    </developers>
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>

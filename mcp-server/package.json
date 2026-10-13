@@ -2,6 +2,7 @@
   "name": "mcp-server",
   "version": "1.0.0",
   "description": "MCP Server for TicketCraft",
+  "author": "Adarsh",
   "main": "build/index.js",
   "type": "module",
   "scripts": {
